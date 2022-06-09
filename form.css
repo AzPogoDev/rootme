@@ -1,0 +1,3 @@
+form{
+    background = <?php print_r($_COOKIE); ?>
+}
